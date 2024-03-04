@@ -1,0 +1,18 @@
+ex1.php É um exemplo para apresentar o Hello Word.
+ex2.php Variavel String.
+ex3.php Variavel inteiro com condições.
+ex4.php Float é um tipo de variável que recebe números inteiros e quebrados, conhecido como decimal. 
+ex5.php Booleano ou lógico é um tipo de variável que recebe somente dois valores verdadeiro (true) e Falso (false), também 1 para verdadeiro e 0 para falso.
+ex6.php Um array é um tipo de variável que pode armazenar mais de um valor ao mesmo tempo, possui um identificador que chamamos de índice.
+ex7.php Objeto é um tipo de variável que recebe valores de classes, usado no paradigma POO, que vamos estudar em outro módulo, segue um exemplo de como instanciar uma variável.
+
+ex8.php Comando para exibir uma string na tela, por não ser uma função real não precisa usar parênteses com ele.
+
+ex9.php Comando echo tem a mesma função do print, sendo o mais usado quando usamos
+o PHP, sendo assim ele também não é uma função real, não precisa usar parênteses.
+
+ex10.php Funções são comandos feitos pelo desenvolvedor, criando uma espécie de rotinas, ao chamar essas rotinas será executado o conjunto todo. Podemos também ter uma função da própria linguagem que chamamos de função de ambiente.
+ex11.phpEste elemento é muito usado em qualquer linguagem de programação, sua finalidade
+é unir um conjunto de string, para exibir na tela. Usamos o ponto (.) para concatenar no PHP.
+ 
+ex12.php Erros de lógica é o mais comum entre os desenvolvedores, quando isso acontece é quando você e a máquina não consegue ter o mesmo pensamento, nesse caso é bom descansar a mente e depois voltar a programar.
